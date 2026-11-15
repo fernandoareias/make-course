@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/dev/BitVault/_deps/zlib-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

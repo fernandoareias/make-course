@@ -1,3 +1,0 @@
-C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
-C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/ALL_BUILD.dir
-C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/ZERO_CHECK.dir
