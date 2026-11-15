@@ -30,6 +30,7 @@ include(cmake/AddLib.cmake)
 include(cmake/AddTest.cmake)
 
 include_directories(src)
+
 add_subdirectory(src)
 add_subdirectory(app)
 enable_testing()

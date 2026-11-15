@@ -1,0 +1,1 @@
+add_test_custom(utils_tests utils)

@@ -1,0 +1,1 @@
+add_test_custom(compression_tests compression)

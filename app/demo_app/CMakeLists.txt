@@ -1,0 +1,1 @@
+add_app_custom("demo_app")
