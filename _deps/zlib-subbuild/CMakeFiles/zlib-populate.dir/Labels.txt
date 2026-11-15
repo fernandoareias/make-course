@@ -1,0 +1,14 @@
+# Target labels
+ zlib-populate
+# Source files and their labels
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/zlib-populate
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/1e4f9a39fa7922ed35999d627d34f5f1/zlib-populate.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/7d9f88b7dd58707ca1c80d58b47e5389/zlib-populate-complete.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-build.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-configure.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-download.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-install.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-mkdir.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-patch.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-test.rule
+C:/dev/BitVault/_deps/zlib-subbuild/CMakeFiles/c3325032f0387d17ed2ad714d46a0a2b/zlib-populate-update.rule

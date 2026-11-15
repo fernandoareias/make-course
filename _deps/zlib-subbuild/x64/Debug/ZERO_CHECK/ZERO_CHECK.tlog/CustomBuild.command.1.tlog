@@ -1,0 +1,10 @@
+^C:\DEV\BITVAULT\_DEPS\ZLIB-SUBBUILD\CMAKEFILES\1E4F9A39FA7922ED35999D627D34F5F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/BitVault/_deps/zlib-subbuild -BC:/dev/BitVault/_deps/zlib-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/BitVault/_deps/zlib-subbuild/zlib-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
