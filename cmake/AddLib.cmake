@@ -15,9 +15,9 @@ add_library(${name} ${type} ${LIB_SOURCES})
 
 
 if (${type} STREQUAL "INTERFACE")   
-    target_include_directories(${name} INTERFACE ${SOURCE_DIR} ${zlib_SOURCE_DIR} ${zlib_BINARY_DIR})
+    target_include_directories(${name} INTERFACE ${SOURCE_DIR})
 else()
-    target_include_directories(${name} PUBLIC ${SOURCE_DIR} ${zlib_SOURCE_DIR} ${zlib_BINARY_DIR})
+    target_include_directories(${name} PUBLIC ${SOURCE_DIR})
 endif()
 
 if(NOT "${ARGN}" STREQUAL "")

@@ -1,1 +1,1 @@
-add_lib_custom("compression" STATIC zlibstatic)
+add_lib_custom("compression" STATIC ZLIB::ZLIB)
